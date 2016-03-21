@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GroupViewLayout">
+        <attr name="titleText" format="string|reference"/>
+        <attr name="titleText_Size" format="dimension|reference"/>
+        <attr name="titleText_Color" format="color|reference"/>
+        <attr name="indicator_Closed" format="color|reference"/>
+        <attr name="indicator_Opened" format="color|reference"/>
+    </declare-styleable>
+</resources>
